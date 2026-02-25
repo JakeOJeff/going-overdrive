@@ -6,3 +6,6 @@
 *.yy text eol=lf
 *.yyp text eol=lf
 *.json text eol=lf
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
